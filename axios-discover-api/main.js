@@ -53,6 +53,6 @@ const newUser = {
 }
 // updateUser(3,userUpdate)
 getUsers()
-// getUser(2)
+getUser(2)
 // addNewUser()
 // deleteUser()
